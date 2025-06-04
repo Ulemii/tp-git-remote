@@ -1,1 +1,2 @@
-echo "secret.txt, secret2.txt" > .gitignore
+secret.txt
+secret2.txt
