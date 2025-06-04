@@ -34,3 +34,5 @@ Sinon
     Afficher "Ce n'est pas un palindrome"
         
 FinSi
+ 
+// ceci est un commentaire
